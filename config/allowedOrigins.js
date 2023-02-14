@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  "https://backend-sandy-three.vercel.app/",
+  "fate-seen-nova.glitch.me",
   "http://127.0.0.1:5500",
   "http://localhost:3500",
 ];
