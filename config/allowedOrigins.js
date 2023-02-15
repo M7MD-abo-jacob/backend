@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  "fate-seen-nova.glitch.me",
+  "woozy-chipped-turquoise.glitch.me",
   "http://127.0.0.1:5500",
   "http://localhost:3500",
 ];
